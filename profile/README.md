@@ -1,4 +1,4 @@
-0x456d706f776572696e6720456e74657270726973657320776974682047656e65726174697665204149
+0x45 0x6d 0x70 0x6f 0x77 0x65 0x72 0x69 0x6e 0x67 0x20 0x45 0x6e 0x74 0x65 0x72 0x70 0x72 0x69 0x73 0x65 0x73 0x20 0x77 0x69 0x74 0x68 0x20 0x47 0x65 0x6e 0x65 0x72 0x61 0x74 0x69 0x76 0x65 0x20 0x41 0x49
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1dc497,100:05bed2&height=220&section=header&text=🍝%20Ciao%20Amigo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=La%20Cucina%20del%20Codice&descSize=20&descAlignY=55&descColor=e4f8f2&animation=fadeIn" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1dc497,100:05bed2&height=220&section=header&text=🍝%20Ciao%20Amigo&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=La%20Cucina%20del%20Codice&descSize=20&descAlignY=55&descColor=043b44&animation=fadeIn" />
